@@ -4,7 +4,7 @@ import UserDict
 import types
 import sqlite3
 import gzip
-
+import bz2
 import DBConstants
 import screedRecord
 from fastq import fastq_iter
